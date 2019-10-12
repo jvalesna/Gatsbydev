@@ -5,4 +5,5 @@ shortdescription: Gatsby can use Markdown files to create pages in your site. Yo
 date: "2019-10-12"
 ---
 
-KYLE BOANG KA
+Hello World Blog Post
+ 
